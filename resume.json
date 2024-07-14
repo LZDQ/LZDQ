@@ -1,0 +1,100 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://github.com/LZDQ/LZDQ/raw/main/avatar.jpg",
+    "hidden": false
+  },
+  "profile": {
+    "name": "刘丹清",
+    "email": "1486701401@qq.com",
+    "mobile": "18011911920",
+    "github": "https://github.com/LZDQ",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2024.9",
+        "2028.6"
+      ],
+      "school": "清华大学",
+      "major": "交叉信息研究院",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "NOI2022 金牌",
+      "award_time": "2022"
+    },
+    {
+      "award_info": "腾讯科学苗子 优秀奖",
+      "award_time": "2023"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "智谱华章",
+      "department_name": "LongCite 项目研究人员",
+      "work_time": [
+        "2024.4",
+		"2024.7"
+      ],
+      "work_desc": "研究在长文本中生成答案的索引的方法"
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "LongCite",
+      "project_role": "部分代码和实验",
+      "project_time": "2024.4 - 2024.7",
+      "project_desc": "研究大模型在长文本中生成答案索引的方法和可能的提升空间",
+      "project_content": "负责 RAG 的实验、数据标记和 pipeline 的编写"
+    },
+    {
+      "project_name": "Driver Drowsiness Detection Using EEG and EOG with an Attention-CNN Framework",
+      "project_role": "代码实验和部分论文撰写",
+      "project_time": "2023.4-2023.10",
+      "project_desc": "在腾讯科学苗子项目中，训练神经网络通过脑电波检测驾驶疲劳程度",
+      "project_content": "负责观察数据、构建神经网络、处理数据和训练，以及论文核心技术部分的撰写"
+    },
+    {
+      "project_name": "WinterBridge",
+      "project_role": "开发人员",
+      "project_time": "2023.12-2024.1",
+      "project_desc": "Minecraft 自动搭桥模组",
+      "project_content": "自学 Forge 开发自动搭桥模组，相比人类选手操作，实现稳定性和速度的提升"
+    },
+    {
+      "project_name": "umbra.nvim",
+      "project_role": "开发人员",
+      "project_time": "2024 - nil",
+      "project_desc": "Neovim 皮肤",
+      "project_content": "在 onedark 的基础上修改代码，搭建了一款更偏红色、紫色的皮肤"
+    },
+    {
+      "project_name": "THUBG hacked",
+      "project_role": "开发人员",
+      "project_time": "2024.5",
+      "project_desc": "利用网络漏洞破解清华大学人工智能大赛 THUAI - thubg",
+      "project_content": "利用 docker container 内部默认没有防火墙的特性，使用 arpspoof 劫持敌方与服务器之间的通信"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "（即将）茶园大一，拥有良好的算法和数学基础，自学能力强，已经介入科研和业界一些时间。对人工智能和网络安全有很强列的兴趣。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
